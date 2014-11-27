@@ -4,12 +4,13 @@ A simple vimperator plugin for Evernote Clearly.
 
 ## Requirement
 
-- Firefox 4+
-- Vimperator
+- Latest Firefox
+- Vimperator 3.0+
+- [Evernote Clearly](http://evernote.com/clearly/)
 
 ## Installation
 
-Put vimperator-clearly.js to `~/.vimperator/plugin` directory.  
+Put vimperator-clearly.js to `~/.vimperator/plugin` directory.
 
 ## Usage
 
