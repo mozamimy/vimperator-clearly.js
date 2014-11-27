@@ -24,11 +24,11 @@ let INFO = xml`
   </plugin>
 `;
 
-window.onload = function() {
-  require("chrome://readable-by-evernote/content/global.js");
-}
-
 (function() {
+  window.onload = function() {
+    require("chrome://readable-by-evernote/content/global.js");
+  }
+
   commands.addUserCommand(
     ["clearly"],
     "Toggle Evernote Clearly page.",
