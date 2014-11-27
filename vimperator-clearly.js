@@ -1,4 +1,4 @@
-// vimperator-clearly.js 0.0.1
+// vimperator-clearly.js 0.0.2
 // Copyright (c) 2014 Moza USANE
 // This software is released under the MIT License.
 // http://opensource.org/licenses/mit-license.php
@@ -6,7 +6,7 @@
 let INFO = xml`
   <plugin
     name="vimperator-clearly.js"
-    version="0.0.1"
+    version="0.0.2"
     href="http://github.com/mozamimy/vimperator-clearly.js"
     summary="A simple vimperator plugin for Evernote Clearly."
     xmlns="http://vimperator.org/namespaces/liberator"
