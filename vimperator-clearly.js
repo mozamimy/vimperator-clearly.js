@@ -7,7 +7,7 @@ let INFO = xml`
   <plugin
     name="vimperator-clearly.js"
     version="0.0.1"
-    href="http://github.com/mozamimy"
+    href="http://github.com/mozamimy/vimperator-clearly.js"
     summary="A simple vimperator plugin for Evernote Clearly."
     xmlns="http://vimperator.org/namespaces/liberator"
   >
