@@ -13,7 +13,7 @@ let INFO = xml`
   >
   <author email="mozamimy@quellencode.org">Moza USANE</author>
   <license>MIT License</license>
-  <project name="Vimperator" minVersion="2.3"/>
+  <project name="Vimperator" minVersion="3.0"/>
   <item>
   <tags>:clearly</tags>
   <spec>:clearly</spec>
