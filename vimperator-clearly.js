@@ -1,4 +1,4 @@
-// vimperator-clearly.js
+// vimperator-clearly.js 0.0.1
 // Copyright (c) 2014 Moza USANE
 // This software is released under the MIT License.
 // http://opensource.org/licenses/mit-license.php
