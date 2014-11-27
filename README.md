@@ -2,7 +2,34 @@
 
 A simple vimperator plugin for Evernote Clearly.
 
-This document is under constructing...
+## Requirement
+
+- Firefox 4+
+- Vimperator
+
+## Installation
+
+Put vimperator-clearly.js to `~/.vimperator/plugin` directory.  
+
+## Usage
+
+You can toggle Evernote Clearly window by using following command.
+
+```
+:clearly
+```
+
+If you want to use as keyboard shortcut,
+put following line into your .vimperatorrc.  
+This example assigns 'e' key to toggle.
+
+```
+nnoremap e :clearly<CR>
+```
+
+## Progress report
+- [x] Toggle page
+- [ ] Save directly via Evernote Clearly from an web page
 
 ## Contributing
 
