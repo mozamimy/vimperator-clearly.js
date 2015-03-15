@@ -10,7 +10,7 @@ A simple vimperator plugin for Evernote Clearly.
 
 ## Installation
 
-Put vimperator-clearly.js to `~/.vimperator/plugin` directory.
+Put plugin/vimperator-clearly.js to `~/.vimperator/plugin` directory.
 
 ## Usage
 
@@ -21,7 +21,7 @@ You can toggle Evernote Clearly window by using following command.
 ```
 
 If you want to use as keyboard shortcut,
-put following line into your .vimperatorrc.  
+put following line into your .vimperatorrc.
 This example assigns 'e' key to toggle.
 
 ```
